@@ -1,1 +1,1 @@
-ngix
+camunda/camunda-bpm-platform
